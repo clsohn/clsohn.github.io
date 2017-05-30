@@ -1,2 +1,1 @@
-# clsohn.github.io
-GitHub page
+[clsohn.github.io](https://whatsitlikeout.herokuapp.com/)

@@ -3,13 +3,13 @@
  height: 300px;
  margin: 0 auto;
  padding: 2em 0;
- font: 100% 'Yanone Kaffeesatz', Arial, sans-serif;
+ font-family: 'Roboto Condensed', sans-serif;
  position: relative;
 }
 
-#word-cloud span {
+/*#word-cloud span {
  position: absolute;
-}
+}*/
 
 #word-cloud .word-1 {
  top: 1em;
@@ -67,4 +67,87 @@
  -moz-transform: rotate(-90deg);
  -webkit-transform: rotate(-90deg);
  -o-transform: rotate(-90deg);
+}
+
+#word-cloud .word-8 {
+  bottom: 0;
+  right: 2em;
+  color: #5e0000;
+  font-size: 120px;
+}
+
+#word-cloud .word-9 {
+  top: 1em;
+  left: 1.5em;
+  font-size: 70px;
+  color: #626262;
+}
+
+#word-cloud .word-10 {
+  top: 0;
+  left: 1em;
+  font-size: 80px;
+  color: #906060;
+}
+
+#word-cloud .word-11 {
+  top: 1em;
+  left: 1.5em;
+  font-size: 60px;
+  color: #c5c5c5;
+}
+
+#word-cloud .word-12 {
+  top: 1em;
+  left: 1.5em;
+  font-size: 100px;
+  color: #626262;
+}
+
+#word-cloud .word-13 {
+  top: 1em;
+  left: 0;
+  font-size: 40px;
+  color: #511c1c;
+  -moz-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+}
+
+#word-cloud .word-14 {
+  top: 1em;
+  left: 1.5em;
+  font-size: 60px;
+  color: #c5c5c5;
+}
+
+#word-cloud .word-15 {
+  top: 0;
+  left: 1em;
+  font-size: 80px;
+  color: #906060;
+}
+
+#word-cloud .word-16 {
+  top: 1em;
+  left: 0;
+  font-size: 40px;
+  color: #511c1c;
+  -moz-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+}
+
+#word-cloud .word-17 {
+  top: 0;
+  left: 1em;
+  font-size: 80px;
+  color: #906060;
+}
+
+#word-cloud .word-18 {
+  top: 1em;
+  left: 1.5em;
+  font-size: 60px;
+  color: #c5c5c5;
 }
