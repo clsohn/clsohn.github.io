@@ -1,1 +1,1 @@
-[clsohn.github.io](https://whatsitlikeout.herokuapp.com/)
+[clsohn.github.io](https://clsohn.github.io/)
